@@ -22,24 +22,6 @@ Also, I'm a student in **Abu-Hadhoud Roadmap**.
 
 ---
 
-### 📊 My GitHub Stats
-
-![Profile Views](https://komarev.com/ghpvc/?username=AhmedYaserMt&style=flat&color=blue&label=PROFILE+VIEWS)  
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAhmedYaserMt&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=VISITORS&edge_flat=false)
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AhmedYaserMt/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32%">
-  <img src="https://raw.githubusercontent.com/AhmedYaserMt/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32%">
-  <img src="https://raw.githubusercontent.com/AhmedYaserMt/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32%">
-</div>
-
-<details>
-  <summary>📈 More Stats</summary>
-  <img align="center" src="https://raw.githubusercontent.com/AhmedYaserMt/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg">
-</details>
-
----
-
 ### 🎯 Currently Working On:
 - **Abu-Hadhoud Roadmap**
 - Mastering **C++** 💡  
