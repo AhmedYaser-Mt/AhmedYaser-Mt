@@ -52,6 +52,14 @@ Also, I'm a student in **Abu-Hadhoud Roadmap**.
 
 ---
 
+
+<div align="center"> <table> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=AhmedYaser-Mt&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="AhmedYaser-Mt's GitHub stats" /> </td> <td> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedYaser-Mt&theme=tokyonight&hide_border=false" alt="GitHub Streak" /> </td> </tr> </table> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedYaser-Mt&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" /> </div>
+
+<div align="center"> <img src="https://img.shields.io/github/followers/AhmedYaser-Mt?label=Followers&style=for-the-badge&logo=github&color=1f6feb" /> <img src="https://img.shields.io/github/repos/AhmedYaser-Mt?label=Public%20Repos&style=for-the-badge&logo=github&color=6f42c1" /> </div>
+
+---
+
+
 ```cpp
 // Focused on mastering the stack
 class AhmedYaserMt {
