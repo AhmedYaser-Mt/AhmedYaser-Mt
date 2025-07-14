@@ -14,21 +14,6 @@ Also, I'm a student in **Abu-Hadhoud Roadmap**.
 
 ---
 
-### 📬 Contact Information
-<div align="center">
-  <a href="https://www.linkedin.com/in/ahmed-yaser-mt">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ahmed.yaser.mt@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://wa.me/201014842264">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</div>
-
----
-
 ### 🛠️ Skills & Tools
 <div align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -66,6 +51,21 @@ Also, I'm a student in **Abu-Hadhoud Roadmap**.
 
 <div align="center">
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="100" />
+</div>
+
+---
+
+### 📬 Contact Information
+<div align="center">
+  <a href="https://www.linkedin.com/in/ahmed-yaser-mt">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ahmed.yaser.mt@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/201014842264">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 </div>
 
 ---
