@@ -53,7 +53,6 @@ Also, I'm a student in **Abu-Hadhoud Roadmap**.
 </div>
 
 
-
 ---
 
 <div align="center">
