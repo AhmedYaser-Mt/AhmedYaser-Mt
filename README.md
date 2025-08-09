@@ -56,10 +56,15 @@ Also, I'm a student in **Abu-Hadhoud Roadmap**.
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/AhmedYaser-Mt?label=Followers&style=for-the-badge&logo=github&color=1f6feb" />
+  
+![GitHub followers](https://img.shields.io/github/followers/AhmedYaser-Mt?label=Followers&style=for-the-badge&logo=github&color=1f6feb)
+![Profile views](https://komarev.com/ghpvc/?username=AhmedYaser-Mt&color=yellow&style=for-the-badge&label=Visitors)
+
 </div>
 
+
 ---
+
 
 ### 📬 Contact Information
 <div align="center">
@@ -84,4 +89,5 @@ public:
   string university = "Benha University";
   string track = "Full Stack Developer";
   string passion = "Problem Solving & Building Projects";
+  void sayHi() { cout << "Thanks for visiting my profile! 🚀"; }
 };
