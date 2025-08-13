@@ -21,7 +21,7 @@ Also, I'm a student in **Abu-Hadhoud Roadmap**. I love building projects, improv
 
 ---
 
-### 💻 Featured Projects <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30">
+### 💻 Featured Projects <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
 - [Project 1 ( Stone - Paper - Scissor )](https://github.com/AhmedYaser-Mt/Project-1-Stone---Paper---Scissor-)
 - [Project 2 ( Math Game )](https://github.com/AhmedYaser-Mt/Project-2-Math-Game-)
 - [Project 3 ( Banking System )](https://github.com/AhmedYaser-Mt/Project-3-Bank-1-)
