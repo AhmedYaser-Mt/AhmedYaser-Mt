@@ -23,10 +23,10 @@ Also, I'm a student in **Abu-Hadhoud Roadmap**.
 ---
 
 ### 📌 Featured Projects
-- [Project 1 ( Stone - Papre - Stone )](https://github.com/...)
-- [Project 2 ( Math Game )](https://github.com/...)
-- [Project 3 ( Banking System )](https://github.com/...)
-- [Project 4 ( ATM System )](https://github.com/...)
+- [Project 1 ( Stone - Paper - Stone )](https://github.com/AhmedYaser-Mt/Project-1-Stone---Paper---Scissor-)
+- [Project 2 ( Math Game )](https://github.com/AhmedYaser-Mt/Project-2-Math-Game-)
+- [Project 3 ( Banking System )](https://github.com/AhmedYaser-Mt/Project-3-Bank-1-)
+- [Project 4 ( ATM System )](https://github.com/AhmedYaser-Mt/Project-4-ATM-System-)
 
 ---
 
