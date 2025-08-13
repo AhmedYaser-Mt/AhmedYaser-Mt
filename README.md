@@ -23,10 +23,10 @@ Also, I'm a student in **Abu-Hadhoud Roadmap**.
 ---
 
 ### 📌 Featured Projects
-- [Project 1 ](https://github.com/...)
-- [Project 1 ](https://github.com/...)
-- [Project 1 ](https://github.com/...)
-- [Project 1 ](https://github.com/...)
+- [Project 1 ( Stone - Papre - Stone )](https://github.com/...)
+- [Project 2 ( Math Game )](https://github.com/...)
+- [Project 3 ( Banking System )](https://github.com/...)
+- [Project 4 ( ATM System )](https://github.com/...)
 
 ---
 
