@@ -1,4 +1,3 @@
-
 <div align="center" width="100%">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
@@ -8,13 +7,13 @@
 
 <hr>
 
-### 👋 Hello! I'm **Ahmed Yaser Metwalli**
+### 👋 Hello! I'm **Ahmed Yaser Metwalli** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 A student passionate about programming 🚀. Currently learning **C++** and problem-solving using **Visual Studio** to build my skills 💻.  
 Also, I'm a student in **Abu-Hadhoud Roadmap**. I love building projects, improving my skills, and sharing my progress with the community.
 
 ---
 
-### 🛠️ Skills & Tools
+### 🛠️ Skills & Tools <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="30">
 <div align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
@@ -22,7 +21,7 @@ Also, I'm a student in **Abu-Hadhoud Roadmap**. I love building projects, improv
 
 ---
 
-### 📌 Featured Projects  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30">
+### 📌 Featured Projects <img src="https://media.giphy.com/media/l3vR3z8j7R6xJQw2c/giphy.gif" width="30">
 - [Project 1 ( Stone - Paper - Stone )](https://github.com/AhmedYaser-Mt/Project-1-Stone---Paper---Scissor-)
 - [Project 2 ( Math Game )](https://github.com/AhmedYaser-Mt/Project-2-Math-Game-)
 - [Project 3 ( Banking System )](https://github.com/AhmedYaser-Mt/Project-3-Bank-1-)
@@ -30,14 +29,14 @@ Also, I'm a student in **Abu-Hadhoud Roadmap**. I love building projects, improv
 
 ---
 
-### 🏆 Achievements & Certificates
+### 🏆 Achievements & Certificates <img src="https://media.giphy.com/media/26FPnsRww5Zm4/giphy.gif" width="30">
 - 09 - Foundations Level 2 (Programming Advices)
 - Completed 8+ courses in Abu-Hadhoud Roadmap (Programming Advices)
 - Solved 400+ programming problems
 
 ---
 
-### 🎯 Currently Working On:
+### 🎯 Currently Working On <img src="https://media.giphy.com/media/xT8qBepJQzUjXpeWU8/giphy.gif" width="30">
 - **Abu-Hadhoud Roadmap**
 - Mastering **C++** 💡  
 - Algorithms and Problem Solving  
@@ -67,7 +66,6 @@ Also, I'm a student in **Abu-Hadhoud Roadmap**. I love building projects, improv
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedYaser-Mt&layout=compact&theme=tokyonight&hide_border=false&v=1" alt="Top Languages" /> 
 </div>
 
-
 ---
 
 <p align="center">
@@ -76,8 +74,7 @@ Also, I'm a student in **Abu-Hadhoud Roadmap**. I love building projects, improv
 
 ---
 
-
-### 📬 Contact Information
+### 📬 Contact Information <img src="https://media.giphy.com/media/jqNPzdTTxQfOgOqpO4/giphy.gif" width="30">
 <div align="center">
   <a href="https://www.linkedin.com/in/ahmed-yaser-mt">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -91,7 +88,6 @@ Also, I'm a student in **Abu-Hadhoud Roadmap**. I love building projects, improv
 </div>
 
 ---
-
 
 ```cpp
 // Focused on mastering the stack
