@@ -9,7 +9,7 @@
 <hr>
 
 ### 👋 Hello! I'm **Ahmed Yasser Metwally**
-A student passionate about programming 🚀. Currently learning **C++** and using **Visual Studio** to build my skills 💻.  
+A student passionate about programming 🚀. Currently learning **C++** using **Visual Studio** to build my skills 💻.  
 Also, I'm a student in **Abu-Hadhoud Roadmap**.
 
 ---
@@ -19,6 +19,14 @@ Also, I'm a student in **Abu-Hadhoud Roadmap**.
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
 </div>
+
+---
+
+### 📌 Featured Projects
+- [Project 1 ](https://github.com/...)
+- [Project 1 ](https://github.com/...)
+- [Project 1 ](https://github.com/...)
+- [Project 1 ](https://github.com/...)
 
 ---
 
