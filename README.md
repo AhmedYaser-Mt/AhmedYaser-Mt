@@ -8,9 +8,9 @@
 
 <hr>
 
-### 👋 Hello! I'm **Ahmed Yasser Metwally**
-A student passionate about programming 🚀. Currently learning **C++** using **Visual Studio** to build my skills 💻.  
-Also, I'm a student in **Abu-Hadhoud Roadmap**.
+### 👋 Hello! I'm **Ahmed Yaser Metwalli**
+A student passionate about programming 🚀. Currently learning **C++** and problem-solving using **Visual Studio** to build my skills 💻.  
+Also, I'm a student in **Abu-Hadhoud Roadmap**. I love building projects, improving my skills, and sharing my progress with the community.
 
 ---
 
@@ -22,11 +22,18 @@ Also, I'm a student in **Abu-Hadhoud Roadmap**.
 
 ---
 
-### 📌 Featured Projects
+### 📌 Featured Projects  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30">
 - [Project 1 ( Stone - Paper - Stone )](https://github.com/AhmedYaser-Mt/Project-1-Stone---Paper---Scissor-)
 - [Project 2 ( Math Game )](https://github.com/AhmedYaser-Mt/Project-2-Math-Game-)
 - [Project 3 ( Banking System )](https://github.com/AhmedYaser-Mt/Project-3-Bank-1-)
 - [Project 4 ( ATM System )](https://github.com/AhmedYaser-Mt/Project-4-ATM-System-)
+
+---
+
+### 🏆 Achievements & Certificates
+- 09 - Foundations Level 2 (Programming Advices)
+- Completed 8+ courses in Abu-Hadhoud Roadmap (Programming Advices)
+- Solved 400+ programming problems
 
 ---
 
