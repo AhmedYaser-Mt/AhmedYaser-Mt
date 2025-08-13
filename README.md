@@ -13,7 +13,7 @@ Also, I'm a student in **Abu-Hadhoud Roadmap**. I love building projects, improv
 
 ---
 
-### 🛠️ Skills & Tools <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="30">
+### 🛠️ Skills & Tools <img src="https://media.giphy.com/media/3o7TKPdUkkbCAVqW4w/giphy.gif" width="30">
 <div align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
@@ -21,8 +21,8 @@ Also, I'm a student in **Abu-Hadhoud Roadmap**. I love building projects, improv
 
 ---
 
-### 📌 Featured Projects <img src="https://media.giphy.com/media/l3vR3z8j7R6xJQw2c/giphy.gif" width="30">
-- [Project 1 ( Stone - Paper - Stone )](https://github.com/AhmedYaser-Mt/Project-1-Stone---Paper---Scissor-)
+### 💻 Featured Projects <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30">
+- [Project 1 ( Stone - Paper - Scissor )](https://github.com/AhmedYaser-Mt/Project-1-Stone---Paper---Scissor-)
 - [Project 2 ( Math Game )](https://github.com/AhmedYaser-Mt/Project-2-Math-Game-)
 - [Project 3 ( Banking System )](https://github.com/AhmedYaser-Mt/Project-3-Bank-1-)
 - [Project 4 ( ATM System )](https://github.com/AhmedYaser-Mt/Project-4-ATM-System-)
