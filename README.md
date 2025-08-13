@@ -56,7 +56,6 @@ Also, I'm a student in **Abu-Hadhoud Roadmap**.
 ---
 
 <p align="center">
-  <img src="https://hits.sh/github.com/AhmedYaser-Mt.svg?label=Visitors&color=1f6feb&style=for-the-badge&extraCount=11" />
   <img src="https://img.shields.io/github/followers/AhmedYaser-Mt?label=Followers&style=for-the-badge&logo=github&color=1f6feb" />
 </p>
 
