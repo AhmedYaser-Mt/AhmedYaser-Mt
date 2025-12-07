@@ -55,16 +55,19 @@ Also, I'm a student in **Abu-Hadhoud Roadmap**. I love building projects, improv
   <table> 
     <tr> 
       <td> 
-        <img src="https://github-readme-stats.vercel.app/api?username=AhmedYaser-Mt&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&v=1" alt="AhmedYaser-Mt's GitHub stats" /> 
+        <img src="https://github-readme-stats.vercel.app/api?username=AhmedYaser-Mt&show_icons=true&theme=tokyonight" />
       </td> 
       <td> 
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedYaser-Mt&theme=tokyonight&hide_border=false&v=1" alt="GitHub Streak" /> 
+        <img src="https://streak-stats.demolab.com/?user=AhmedYaser-Mt&theme=tokyonight" />
       </td> 
     </tr> 
-  </table> 
-  <br> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedYaser-Mt&layout=compact&theme=tokyonight&hide_border=false&v=1" alt="Top Languages" /> 
+  </table>
+
+  <br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedYaser-Mt&layout=compact&theme=tokyonight" />
 </div>
+
 
 ---
 
