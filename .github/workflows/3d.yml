@@ -1,0 +1,15 @@
+name: 3D Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        with:
+          username: AhmedYaser-Mt
