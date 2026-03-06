@@ -1,44 +1,43 @@
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Ahmed%20Yaser%20Metwally&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Ahmed%20Yaser%20Metwalli&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
 <h1 align="center">👋 Hello, I'm Ahmed Yaser</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=C%2B%2B+Developer;Algorithms+%26+Problem+Solver;OOP+%7C+Data+Structures;C%23+%7C+.NET+%7C+Windows+Forms+%7C+SQL+Server;Future+Software+Engineer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=C%2B%2B%20%7C%20C%23%20%7C%20.NET%20%7C%20Windows%20Forms%20%7C%20SQL%20Server;OOP%20%7C%20Data%20Structures;Algorithms%20%26%20Problem%20Solving;Future%20Software%20Developer"/>
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=AhmedYaser-Mt&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
+
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
 🎓 Student at **Benha Faculty of Computers & Artificial Intelligence**
 
 💻 Passionate about **Software Development**
 
-📚 Strong foundation in:
+📚 Focused on :
 
-- C++
-- Object-Oriented Programming
-- Data Structures
-- Algorithms & Problem Solving
+ 🔹 C++  
+ 🔹 Object-Oriented Programming  
+ 🔹 Data Structures  
+ 🔹 Algorithms & Problem Solving  
 
 📈 Currently expanding into:
 
-- C#
-- .NET Development
-- Windows Forms
-- SQL Server
+ 🔹 C#  
+ 🔹 .NET Development  
+ 🔹 Windows Forms  
+ 🔹 SQL Server  
 
-📍 Following the **ProgrammingAdvices Roadmap**  
-👨‍🏫 Instructor: **Dr. Mohammed Abu-Hadhoud**
+📍 Following **ProgrammingAdvices Roadmap**  
+👨‍🏫 Instructor **Dr. Mohammed Abu-Hadhoud**
 
 ---
 
-# 🛠 Animated Tech Stack
+# 🛠 Tech Stack
 
 <p align="center">
 
@@ -56,73 +55,40 @@
 
 ---
 
-# 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AhmedYaser-Mt&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedYaser-Mt&layout=compact&theme=tokyonight"/>
-
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="420"/>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=AhmedYaser-Mt&theme=tokyonight"/>
-
 </p>
 
 ---
 
-# 📈 Activity Graph
-
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedYaser-Mt&theme=tokyo-night"/>
-
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
-
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AhmedYaser-Mt&theme=tokyonight&no-frame=true&margin-w=10"/>
-
-</p>
-
----
-
-# 🌌 Contribution Sky
-
-<p align="center">
-
-<img src="https://activity-graph.herokuapp.com/graph?username=AhmedYaser-Mt&theme=react-dark&hide_border=true&area=true"/>
-
-</p>
-
----
-
-# 🌐 3D Contribution Graph
-
-<p align="center">
-
-<img src="https://github.com/yoshi389111/github-profile-3d-contrib/blob/main/profile-3d-contrib/profile-night-rainbow.svg"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
 <img src="https://raw.githubusercontent.com/AhmedYaser-Mt/AhmedYaser-Mt/output/github-snake-dark.svg"/>
+</p>
+
+---
+
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedYaser-Mt&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhmedYaser-Mt&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AhmedYaser-Mt&theme=tokyonight"/>
 
 </p>
 
@@ -163,28 +129,13 @@ Libraries for managing dates and periods.
 
 https://github.com/AhmedYaser-Mt/Project-9-Date-and-Period-Libraries-OOP-
 
----
-
-# 📊 GitHub Metrics Dashboard
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedYaser-Mt&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhmedYaser-Mt&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AhmedYaser-Mt&theme=tokyonight"/>
-
-</p>
 
 ---
 
 # 💬 Developer Quote
 
 <p align="center">
-
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
 </p>
 
 ---
@@ -193,11 +144,7 @@ https://github.com/AhmedYaser-Mt/Project-9-Date-and-Period-Libraries-OOP-
 
 <p align="center">
 
-<a href="https://github.com/AhmedYaser-Mt">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com">
+<a href="https://http://www.linkedin.com/in/ahmed-yaser-mt">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -214,6 +161,30 @@ https://github.com/AhmedYaser-Mt/Project-9-Date-and-Period-Libraries-OOP-
 </a>
 
 </p>
+
+---
+
+```cpp
+// Focused on mastering Software Development
+
+class AhmedYaserMt
+{
+public:
+
+  string university = "Benha University";
+
+ string faculty = "Faculty of Computers & Artificial Intelligence";
+
+ string track = "Future Software Engineer";
+
+ string passion = "Problem Solving & Building Systems";
+
+ void sayHi()
+ {
+     cout << "Thanks for visiting my profile 🚀";
+ }
+};
+```
 
 ---
 
