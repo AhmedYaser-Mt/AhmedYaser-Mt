@@ -136,19 +136,11 @@ https://github.com/AhmedYaser-Mt/Project-9-Date-and-Period-Libraries-OOP-
 
 ---
 
-# 💬 Developer Quote
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
-
 # 📬 Contact Me
 
 <p align="center">
 
-<a href="https://http://www.linkedin.com/in/ahmed-yaser-mt">
+<a href="https://www.linkedin.com/in/ahmed-yaser-mt">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
