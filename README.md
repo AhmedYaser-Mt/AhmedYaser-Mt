@@ -122,7 +122,7 @@
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/AhmedYaser-Mt/AhmedYaser-Mt/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/AhmedYaser-Mt/AhmedYaser-Mt/output/github-snake-dark.svg"/>
 
 </p>
 
