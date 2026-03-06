@@ -37,7 +37,7 @@
 
 ---
 
-# 🛠 Tech Stack
+# 🛠 Skills & Tools
 
 <p align="center">
 
@@ -62,12 +62,15 @@
 
 ---
 
+# 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=AhmedYaser-Mt&theme=tokyonight"/>
 </p>
 
 ---
+
+# 📈 Activity Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedYaser-Mt&theme=tokyo-night"/>
@@ -81,6 +84,7 @@
 
 ---
 
+# 📊 GitHub Metrics Dashboard
 
 <p align="center">
 
