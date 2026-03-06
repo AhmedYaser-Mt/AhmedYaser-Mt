@@ -169,9 +169,9 @@ public:
 
   string university = "Benha University";
 
- string faculty = "Faculty of Computers & Artificial Intelligence";
+ string faculty = "Faculty of Computers & Artificial Intelligence (BFCAI)";
 
- string track = "Future Software Engineer";
+ string track = "Future Software Developer";
 
  string passion = "Problem Solving & Building Systems";
 
