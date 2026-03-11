@@ -78,12 +78,6 @@
 
 ---
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/AhmedYaser-Mt/AhmedYaser-Mt/output/github-snake-dark.svg"/>
-</p>
-
----
-
 # 📊 GitHub Metrics Dashboard
 
 <p align="center">
